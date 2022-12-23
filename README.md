@@ -18,7 +18,7 @@ We send requests to our API with the help of axios.
 
 ### 1. Clone this Repository
 ```
-git clone https://github.com/Mohebullah98/Keeper-App-FullStack.git
+git clone https://github.com/Mohebullah98/Notesy-App-FullStack.git
 ```
 
 ### 2. Install Dependencies
