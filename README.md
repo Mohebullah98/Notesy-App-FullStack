@@ -11,7 +11,7 @@ Back-end functionality: add,delete and get all notes through the usage of our se
 
 We send requests to our API with the help of axios.
 
-![image](public\images\Capture.PNG)
+![image](/public/images/Capture.PNG)
 
 
 ## How to run the app
